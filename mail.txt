@@ -1,0 +1,26 @@
+Dear [HR Name] and [Manager Name],
+
+I hope you are doing well.
+
+As I complete one year of working with the organization, I would like to formally request a discussion regarding my appraisal.
+
+Over the past year, I have contributed to multiple projects and internal tools, including:
+
+Designing and developing a multilingual Excel-to-HTML conversion system using Python and Flask to automate translation workflows and standardize content delivery across languages.
+
+Building Python-based automation scripts to generate standardized Excel files, significantly reducing manual data entry for internal campaign operations.
+
+Developing a utility to extract first-page thumbnails from multiple PDF files for use on client landing pages.
+
+Taking ownership of the MIS data validation tool, enhancing Excel upload processing with backend validation logic and role-based access controls.
+
+Developing client-side interfaces for a role-based CRM dashboard using modern frontend practices.
+
+Designing client-specific landing page templates while ensuring UI consistency and adherence to accessibility standards.
+
+I would appreciate your guidance on the appraisal process and a suitable time to discuss my performance and growth moving forward.
+
+Thank you for your time and support.
+
+Best regards,
+Nitesh Ranjankar
