@@ -1,4 +1,5 @@
-# Juspay SDE Backend — Interview Prep
+https://1drv.ms/x/c/4bdbb19d7dd8d4da/IQDqK399I1wOTJ3w-_3CEaaYAQuMo7O89OTLD0AI5-B6Frw?e=aBXCgI
+
 
 ## What this role actually is
 Juspay is a payments infrastructure company processing 300M+ transactions/day at 99.999% reliability. The backend org is famous for being one of the largest **Haskell/PureScript** shops in India. Their proprietary framework is called **Presto**, and roles are often labeled "FP Engineer for Backend." Even when a JD says generic "SDE Backend," the loop tends to be the same across teams, with heavy emphasis on DSA depth, systems thinking, and (for many teams) functional programming.
